@@ -1,2 +1,3 @@
-# Github-Apps-dicoding-
+# Submission Dicoding Android
+
 Submission Github Dicoding
