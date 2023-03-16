@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="search">Search</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="HintCompany">Company</string>
+    <string name="email">Email</string>
+    <string name="github">Github</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_theme">Dark Theme</string>
+</resources>
